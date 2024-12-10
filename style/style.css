@@ -1,0 +1,16 @@
+.img-hover:hover{
+    opacity: .8;
+    cursor: pointer;
+    transition: .8s;
+}
+
+header{
+    background-image: url(../imgs/Brand/back.jpg);
+    background-size: cover;
+}
+
+.back-color{
+    background-color: rgba(15, 95, 102, 0.396);
+    height: 100%;
+}
+
